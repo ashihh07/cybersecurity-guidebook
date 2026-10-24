@@ -11,7 +11,7 @@ A beginner-to-job-ready cybersecurity guide that follows a 12-step roadmap. Ever
 | # | Chapter | Topics | Status |
 |---|---------|--------|--------|
 | 1 | [Networking](01-networking/) | OSI model, IP addressing, subnetting, TCP/IP, DNS, DHCP, HTTP/HTTPS, SSL/TLS | Done |
-| 2 | Linux Fundamentals | Installation, file system and permissions, Bash, SSH, processes, package management | Planned |
+| 2 | [Linux Fundamentals](02-linux-fundamentals) | Installation, file system and permissions, Bash, SSH, processes, package management | Planned |
 | 3 | Programming Basics | Python, Bash scripting, JavaScript basics, JSON and XML | Planned |
 | 4 | Web Technologies | HTML, CSS, JavaScript, cookies and sessions, Apache and Nginx | Planned |
 | 5 | Web Security | SQL injection, XSS, CSRF, authentication and authorization, OWASP Top 10 | Planned |
