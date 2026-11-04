@@ -14,7 +14,7 @@ A beginner-to-job-ready cybersecurity guide that follows a 12-step roadmap. Ever
 | 2 | [Linux Fundamentals](02-linux-fundamentals) | Installation, file system and permissions, Bash, SSH, processes, package management | Done |
 | 3 | [Programming Basics](03-programming-basics) | Python, Bash scripting, JavaScript basics, JSON and XML | Done |
 | 4 | [Web Technologies](04-web-technologies) | HTML, CSS, JavaScript, cookies and sessions, Apache and Nginx | Done |
-| 5 | Web Security | SQL injection, XSS, CSRF, authentication and authorization, OWASP Top 10 | Planned |
+| 5 | [Web Security](05-web-security) | SQL injection, XSS, CSRF, authentication and authorization, OWASP Top 10 | Done |
 | 6 | Ethical Hacking Basics | Reconnaissance, footprinting, scanning with Nmap, enumeration | Planned |
 | 7 | Vulnerability Assessment | Nessus, OpenVAS, Nikto, SSL Labs, risk assessment | Planned |
 | 8 | Penetration Testing | Metasploit, Burp Suite, exploitation, post exploitation | Planned |
