@@ -16,7 +16,7 @@ A beginner-to-job-ready cybersecurity guide that follows a 12-step roadmap. Ever
 | 4 | [Web Technologies](04-web-technologies) | HTML, CSS, JavaScript, cookies and sessions, Apache and Nginx | Done |
 | 5 | [Web Security](05-web-security) | SQL injection, XSS, CSRF, authentication and authorization, OWASP Top 10 | Done |
 | 6 | [Ethical Hacking Basics](06-ethical-hacking-basics) | Reconnaissance, footprinting, scanning with Nmap, enumeration | Done |
-| 7 | [Vulnerability Assessment](07-vulnerability-assessment) | Nessus, OpenVAS, Nikto, SSL Labs, risk assessment | Planned |
+| 7 | [Vulnerability Assessment](07-vulnerability-assessment) | Nessus, OpenVAS, Nikto, SSL Labs, risk assessment | Done |
 | 8 | Penetration Testing | Metasploit, Burp Suite, exploitation, post exploitation | Planned |
 | 9 | Network Analysis | Wireshark, packet analysis, network traffic, IDS/IPS basics | Planned |
 | 10 | Cloud Security | AWS and Azure basics, IAM, security groups, storage security, misconfigurations | Planned |
