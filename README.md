@@ -18,7 +18,7 @@ A beginner-to-job-ready cybersecurity guide that follows a 12-step roadmap. Ever
 | 6 | [Ethical Hacking Basics](06-ethical-hacking-basics) | Reconnaissance, footprinting, scanning with Nmap, enumeration | Done |
 | 7 | [Vulnerability Assessment](07-vulnerability-assessment) | Nessus, OpenVAS, Nikto, SSL Labs, risk assessment | Done |
 | 8 | [Penetration Testing](08-penetration-testing) | Metasploit, Burp Suite, exploitation, post exploitation | Done |
-| 9 | Network Analysis | Wireshark, packet analysis, network traffic, IDS/IPS basics | Planned |
+| 9 | [Network Analysis](09-network-analysis) | Wireshark, packet analysis, network traffic, IDS/IPS basics | Done |
 | 10 | Cloud Security | AWS and Azure basics, IAM, security groups, storage security, misconfigurations | Planned |
 | 11 | Blue Team / SOC | SIEM (Splunk, Wazuh), log analysis, incident response, threat hunting | Planned |
 | 12 | Advanced Topics | Malware analysis, digital forensics, threat intelligence, Red/Purple Team | Planned |
